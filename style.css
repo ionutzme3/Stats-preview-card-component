@@ -57,6 +57,9 @@ img{
 .component-stats h1 ,p {
     margin-bottom: 1em;
 }
+.stats-info {
+    text-align: center;
+}
 .stats-info p {
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -64,6 +67,7 @@ img{
 .d-flex {
     display: flex;
     flex-direction: column;
+    
 }
 .component-image {
     order: -1;
